@@ -1,0 +1,9 @@
+.card {
+    padding: 10px;
+}
+
+.user_profile_delete {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
